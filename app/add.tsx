@@ -23,10 +23,9 @@ export default function Add() {
   const [timeOfDay, setTimeOfDay] = useState('')
 
   const takePhoto = async () => {
-    //ขออนุญาตเข้าถึงกล้อง
     const { status } = await ImagePicker.requestCameraPermissionsAsync();
     if (status !== "granted") {
-      Alert.alert("ขออนุญาตเข้าถึงกล้องเพื่อถ่ายภาพหน่อยนะคร๊าบบบบบ");
+      Alert.alert("โปรดอนุญาติการเข้าถึงกล้องเพื่อถ่ายภาพ");
       return;
     }
 
