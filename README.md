@@ -9,11 +9,19 @@ This is an [Expo](https://expo.dev) project created with [`create-expo-app`](htt
    ```bash
    npm install
    ```
-
-2. Start the app
+   or
+   ```bash
+   bun install
+   ```
+   
+3. Start the app
 
    ```bash
    npx expo start
+   ```
+   or
+   ```bash
+   bunx expo start
    ```
 
 In the output, you'll find options to open the app in a
@@ -31,6 +39,10 @@ When you're ready, run:
 
 ```bash
 npm run reset-project
+```
+or
+```bash
+bun run reset-project
 ```
 
 This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
@@ -50,3 +62,10 @@ Join our community of developers creating universal apps.
 - [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
 
 ## Some ScreenShot of the app
+
+<kbd><img width="250" height="250" alt="image" src="https://github.com/user-attachments/assets/583a8d5e-6e6e-4b7b-ac90-3f772b35ecbd" /></kbd>
+<kbd><img width="250" height="250" alt="image" src="https://github.com/user-attachments/assets/b413c092-f8f7-41cf-aea4-3af2d7fd435e" /></kbd>
+<br><br>
+
+<kbd><img width="250" height="250" alt="image" src="https://github.com/user-attachments/assets/91c96697-4704-4f2e-a9ba-97fb03761ac8" /></kbd>
+<kbd><img width="250" height="250" alt="image" src="https://github.com/user-attachments/assets/2fb653a1-6a23-49cf-8b14-b857efce0214" /></kbd>
