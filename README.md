@@ -63,8 +63,8 @@ Join our community of developers creating universal apps.
 
 ## Some ScreenShot of the app
 
-<kbd><img width="250" height="350" alt="image" src="https://github.com/user-attachments/assets/583a8d5e-6e6e-4b7b-ac90-3f772b35ecbd" /></kbd>
-<kbd><img width="250" height="350" alt="image" src="https://github.com/user-attachments/assets/b413c092-f8f7-41cf-aea4-3af2d7fd435e" /></kbd>
+<kbd><img width="250" height="500" alt="image" src="https://github.com/user-attachments/assets/583a8d5e-6e6e-4b7b-ac90-3f772b35ecbd" /></kbd>
+<kbd><img width="250" height="500" alt="image" src="https://github.com/user-attachments/assets/b413c092-f8f7-41cf-aea4-3af2d7fd435e" /></kbd>
 <br><br>
 
 <kbd><img width="250" height="350" alt="image" src="https://github.com/user-attachments/assets/91c96697-4704-4f2e-a9ba-97fb03761ac8" /></kbd>
